@@ -1,0 +1,7 @@
+tqdm
+matplotlib
+torch
+numpy
+colorama
+bs4
+pytest
